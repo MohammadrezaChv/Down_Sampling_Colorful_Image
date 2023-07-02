@@ -48,7 +48,7 @@ To use the code, follow these steps:
 jupyter notebook
 ```
 
-4. In the Jupyter Notebook interface, navigate to the directory where you cloned or extracted the repository and open the `2D_Colorful_Image_Code.ipynb` notebook.
+4. In the Jupyter Notebook interface, navigate to the directory where you cloned or extracted the repository and open the `Colorful_Downsampling_method3.ipynb` notebook.
 
 ## Usage
 
